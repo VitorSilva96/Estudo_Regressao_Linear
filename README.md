@@ -3,6 +3,6 @@ Os dados foram explorados, pré processados, padronizados e após isso, foram te
 
  - Regressão linear simples;
  - Regressão Ridge;
- - Regressão LASSO.
+ - Regressão Lasso.
  
 Após isso foi determinado o melhor modelo através do RMSE (Raiz quadrada do erro quadrático médio), que prevê, em média, a faixa de erro do nosso modelo. 
